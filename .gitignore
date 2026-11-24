@@ -1,0 +1,9 @@
+# Build output
+/signoff
+/signoff.exe
+/dist/
+
+# Test output
+*.test
+*.out
+coverage.*
