@@ -1,0 +1,2 @@
+# Keep LF everywhere so scripts run in bash on Linux and gofmt sees no CR.
+* text=auto eol=lf
